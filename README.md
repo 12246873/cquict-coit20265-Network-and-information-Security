@@ -41,3 +41,5 @@
 ### 🔹 Node Failure Simulation (Worker VM 2 Stopped)
 ![Node Failure](assets/azure_worker_vm2_node_failure_stopped.png)
 
+### 🔹 Node Failure Handling (Runtime Logs)
+![Failure Logs](assets/azure_distributed_system_node_failure_logs.png)

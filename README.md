@@ -37,3 +37,7 @@
 
 #### Port 8003
 ![Port 8003](assets/azure_nsg_inbound_rule_port_8003.png)
+
+### 🔹 Node Failure Simulation (Worker VM 2 Stopped)
+![Node Failure](assets/azure_worker_vm2_node_failure_stopped.png)
+

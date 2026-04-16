@@ -6,7 +6,7 @@
 ![Resource Groups](assets/azure_resource_groups_overview.png)
 
 ### 🔹 Azure VM Cluster (Scheduler + Workers)
-![VM Cluster](screenshots/azure_virtual_machines_cluster_running.png)
+![VM Cluster](assets/azure_virtual_machines_cluster_running.png)
 
 ### 🔹 VM Configuration (OS & Size)
 ![VM Config](assets/azure_vm_configuration_details.png)

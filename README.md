@@ -43,3 +43,19 @@
 
 ### 🔹 Node Failure Handling (Runtime Logs)
 ![Failure Logs](assets/azure_distributed_system_node_failure_logs.png)
+
+### 🔹 Multi-Node Execution (Scheduler + Workers)
+
+![Multi Node Logs](assets/azure_distributed_system_multi_node_execution_logs.png)
+
+### 🔹 Worker Node Service (FastAPI)
+
+![Worker Code](assets/worker_node_fastapi_service_code.png)
+
+### 🔹 Scheduler Logic (Load Balancing)
+
+![Scheduler Code](assets/scheduler_vm_load_balancing_logic_code.png)
+
+### 🔹 Failure Scenario (Gateway Timeout)
+
+![Gateway Timeout](assets/scheduler_api_gateway_timeout_error.png)

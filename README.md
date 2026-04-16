@@ -2,6 +2,10 @@
 
 ## 📸 Azure Screenshots
 
+## 🏗️ System Architecture
+
+![Architecture](assets/azure_distributed_system_architecture_diagram.png)
+
 ### 🔹 Resource Groups Overview
 ![Resource Groups](assets/azure_resource_groups_overview.png)
 
